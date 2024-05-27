@@ -1,0 +1,389 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "name": "SaludMentalUDP",
+    "description": "",
+    "id": "A79tBe"
+  },
+  "autoEndDialog": "=",
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnConversationUpdateActivity",
+      "$designer": {
+        "id": "376720",
+        "comment": "This trigger runs when a conversation update activity is sent to the bot. This indicates a user or bot being added or removed from a conversation.",
+        "name": "Bienvenida"
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.Foreach",
+          "$designer": {
+            "id": "518944",
+            "name": "Loop: for each item",
+            "comment": "For each member added to the conversation."
+          },
+          "itemsProperty": "turn.Activity.membersAdded",
+          "actions": [
+            {
+              "$kind": "Microsoft.IfCondition",
+              "$designer": {
+                "id": "641773",
+                "name": "Branch: if/else",
+                "comment": "Checks that that member added ID does not match the bot ID. This prevents the greeting message from being sent when the bot is added to a conversation."
+              },
+              "condition": "=string(dialog.foreach.value.id) != string(turn.Activity.Recipient.id)",
+              "actions": [
+                {
+                  "$kind": "Microsoft.SendActivity",
+                  "$designer": {
+                    "id": "859266",
+                    "name": "Send a response"
+                  },
+                  "activity": "${SendActivity_859266()}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnUnknownIntent",
+      "$designer": {
+        "id": "mb2n1u",
+        "comment": "This trigger fires when an incoming activity is not handled by any other trigger."
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "67RQuD"
+          },
+          "activity": "${SendActivity_67RQuD()}"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "stYKQA",
+        "name": "Agendar"
+      },
+      "intent": "Agendar",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "CNr2jk"
+          },
+          "activity": "${SendActivity_CNr2jk()}"
+        }
+      ],
+      "entities": []
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "u0uvu8",
+        "name": "PensamientosSuicidas"
+      },
+      "intent": "PensamientosSuicidas",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "in2QUT"
+          },
+          "activity": "${SendActivity_in2QUT()}"
+        },
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "wVDzRV"
+          },
+          "activity": "${SendActivity_wVDzRV()}"
+        }
+      ],
+      "entities": [],
+      "priority": 1
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "qdQHjB",
+        "name": "Ansiedad"
+      },
+      "intent": "Ansiedad",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "9mu1uL"
+          },
+          "activity": "${SendActivity_9mu1uL()}"
+        },
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "xvmJfA"
+          },
+          "activity": "${SendActivity_xvmJfA()}"
+        }
+      ],
+      "entities": []
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "Vzf1KU",
+        "name": "Agradecimiento"
+      },
+      "intent": "Agradecimiento",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "kQ7K1u"
+          },
+          "activity": "${SendActivity_kQ7K1u()}"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "inqNnd",
+        "name": "Despedida"
+      },
+      "intent": "Saludo",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "7hjC9b"
+          },
+          "activity": "${SendActivity_7hjC9b()}"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "hqV1eL",
+        "name": "Ayuda"
+      },
+      "intent": "Ayuda",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "WtI4Sw"
+          },
+          "activity": "${SendActivity_WtI4Sw()}"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "TLdlSZ",
+        "name": "Saludo"
+      },
+      "intent": "Despedida",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "RleViU"
+          },
+          "activity": "${SendActivity_RleViU()}"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "1pdEle",
+        "name": "AnsiedadCausas"
+      },
+      "intent": "AnsiedadCausas",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "Dx7947"
+          },
+          "activity": "${SendActivity_Dx7947()}"
+        },
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "LEaA9N"
+          },
+          "activity": "${SendActivity_LEaA9N()}"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "ue9Fie",
+        "name": "AnsiedadSintomas"
+      },
+      "intent": "AnsiedadSintomas",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "CJaMR8"
+          },
+          "activity": "${SendActivity_CJaMR8()}"
+        },
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "T3DDTj"
+          },
+          "activity": "${SendActivity_T3DDTj()}"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "vDr5MH",
+        "name": "AnsiedadTratamiento"
+      },
+      "intent": "AnsiedadTratamiento",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "gBHfYT"
+          },
+          "activity": "${SendActivity_gBHfYT()}"
+        },
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "SYoX0y"
+          },
+          "activity": "${SendActivity_SYoX0y()}"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "yQr8LF",
+        "name": "AnsiedadTipos"
+      },
+      "intent": "AnsiedadTipos",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "l9KHjJ"
+          },
+          "activity": "${SendActivity_l9KHjJ()}"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "Ev7hlJ",
+        "name": "AnsiedadImpacto"
+      },
+      "intent": "AnsiedadImpacto",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "UAGunf"
+          },
+          "activity": "${SendActivity_UAGunf()}"
+        },
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "qL7Cja"
+          },
+          "activity": "${SendActivity_qL7Cja()}"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "ad2ojL",
+        "name": "Direccion"
+      },
+      "intent": "Direccion",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "UdzDV9"
+          },
+          "activity": "${SendActivity_UdzDV9()}"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "AT7n7x",
+        "name": "Horario"
+      },
+      "intent": "Horario",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "NZ1E6R"
+          },
+          "activity": "${SendActivity_NZ1E6R()}"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "09XrJV",
+        "name": "Contactanos"
+      },
+      "intent": "Contactanos",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "7Ydpa5"
+          },
+          "activity": "${SendActivity_7Ydpa5()}"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "Fhms6S",
+        "name": "BienestasEstudiantil"
+      },
+      "intent": "BienestasEstudiantil",
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "i5mzlN"
+          },
+          "activity": "${SendActivity_i5mzlN()}"
+        }
+      ]
+    }
+  ],
+  "generator": "Empty_4.lg",
+  "id": "Empty_4",
+  "recognizer": "Empty_4.lu.qna"
+}

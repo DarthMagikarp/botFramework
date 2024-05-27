@@ -1,0 +1,23 @@
+{
+  "Empty_4.en-us": {
+    "rootDialog": true,
+    "triggers": {
+      "Agendar": "",
+      "PensamientosSuicidas": "",
+      "Ansiedad": "",
+      "Agradecimiento": "",
+      "Saludo": "",
+      "Ayuda": "",
+      "Despedida": "",
+      "AnsiedadCausas": "",
+      "AnsiedadSintomas": "",
+      "AnsiedadTratamiento": "",
+      "AnsiedadTipos": "",
+      "AnsiedadImpacto": "",
+      "Direccion": "",
+      "Horario": "",
+      "Contactanos": "",
+      "BienestasEstudiantil": ""
+    }
+  }
+}

@@ -1,0 +1,225 @@
+
+> LUIS application information
+> !# @app.versionId = 0.1
+> !# @app.culture = en-us
+> !# @app.luis_schema_version = 3.2.0
+
+
+> # Intent definitions
+
+# Ansiedad
+- <ansiedad>
+- <ansioso>
+- <trastorno ansioso>
+- <qué es la ansiedad?
+- <de qué se trata la ansiedad>
+- <qué es la ansiedad>
+
+
+# PensamientosSuicidas
+- <pensamientos suicidas>
+- <suicidio>
+- <suicidarme>
+- <matarme>
+- <acabar con mi vida>
+- <morirme>
+- <terminar con mi existencia>
+- <ideas de muerte>
+- <suicidas>
+
+
+# Agendar
+- <Cómo hago para agendar una hora?>
+- <agenda>
+- <cómo agendo?>
+- <dónde puedo agendar?>
+- <Quiero Reservar>
+- <reserva de hora?>
+- <pedir hora>
+- <agendamiento>
+- <agendaa>
+
+
+# Agradecimiento
+- <gracias>
+- <muchas gracias>
+- <te agradezco>
+- <genial, gracias>
+- <grasias>
+- <agradecida>
+- <agradecido>
+
+
+# Saludo
+- <adios>
+- <hasta luego>
+- <hasta nunca>
+- <hasta la vista>
+- <chao>
+- <chau>
+- <chaolin>
+- <chauu>
+- <bye>
+- <hasta la próxima>
+- <hasta mañana>
+- <chaito>
+- <adiosin>
+
+
+# Ayuda
+- <ayuda>
+- <ayúdame>
+- <podrías ayudarme?>
+- <en qué me puedes ayudar?>
+- <help>
+- <me ayudas?>
+- <asísteme>
+- <en qué me puedes asistir?>
+- <en qué me podrias ayudar?>
+- <qué podrías hacer por mi?>
+- <que temas de ayuda tienes?>
+- <requiero ayuda>
+- <ayudas>
+- <aiuda>
+
+
+# Despedida
+- <hola>
+- <oli>
+- <hello>
+- <hi>
+- <holanda>
+- <hola cómo vas?>
+
+
+# AnsiedadCausas
+- <¿Cuáles son algunas de las causas más comunes de los trastornos de ansiedad?
+- <¿Qué papel juega la genética en el desarrollo de los trastornos de ansiedad?
+- <¿Las experiencias traumáticas siempre conducen al desarrollo de trastornos de ansiedad?
+- <¿El estrés crónico puede ser una causa subyacente de los trastornos de ansiedad?
+- <¿Existen factores ambientales que puedan desencadenar la ansiedad en algunas personas?
+- <¿Las personas con antecedentes familiares de trastornos de ansiedad tienen un mayor riesgo de desarrollarlos?
+- <¿La ansiedad puede ser causada por desequilibrios químicos en el cerebro?
+- <¿Cómo puede la presencia de otros trastornos mentales aumentar el riesgo de desarrollar ansiedad?
+- <¿Qué papel juegan los factores psicológicos en el desarrollo de los trastornos de ansiedad?
+- <¿La edad y el género pueden influir en el riesgo de desarrollar trastornos de ansiedad?>
+- <causas de la ansiedad>
+- <factores que influyen en la ansiedad>
+- <Causas>
+
+
+# AnsiedadSintomas
+- <¿Cuáles son los síntomas más comunes de los trastornos de ansiedad?
+- <¿Cómo puedo saber si lo que estoy experimentando es ansiedad o simplemente estrés?
+- <¿Qué señales debo buscar para identificar un posible trastorno de ansiedad en mí mismo?
+- <Últimamente he estado experimentando palpitaciones y problemas para respirar, ¿podrían ser síntomas de ansiedad?
+- <Me siento constantemente preocupado y nervioso, ¿esto podría ser un signo de trastorno de ansiedad?
+- <¿La dificultad para dormir puede ser un síntoma de un trastorno de ansiedad?
+- <He estado teniendo problemas estomacales y tensión muscular últimamente, ¿podrían estar relacionados con la ansiedad?
+- <¿La falta de concentración y la irritabilidad son síntomas de los trastornos de ansiedad?
+- <¿Qué síntomas físicos podrían indicar la presencia de un trastorno de ansiedad?
+- <¿La evitación de ciertas situaciones podría ser un indicador de un trastorno de ansiedad?>
+- <síntomas de la ansiedad>
+- <síntomas trastorno ansioso>
+- <Síntomas>
+
+
+# AnsiedadTratamiento
+- <¿Cuáles son las opciones de tratamiento disponibles para los trastornos de ansiedad?>
+- <¿Qué tipo de terapia es más efectiva para tratar los trastornos de ansiedad?>
+- <¿Los medicamentos son siempre necesarios para tratar los trastornos de ansiedad?>
+- <¿Existen métodos de tratamiento alternativos para los trastornos de ansiedad?>
+- <¿Cómo puede el ejercicio ayudar en el manejo de la ansiedad?>
+- <¿La meditación y la relajación son efectivas para reducir la ansiedad?>
+- <¿La terapia de exposición es útil para tratar las fobias?>
+- <¿Cuál es el papel de la dieta y la nutrición en el manejo de la ansiedad?>
+- <¿El apoyo de amigos y familiares es importante en el tratamiento de los trastornos de ansiedad?>
+- <¿Cuál es la importancia de buscar ayuda profesional en el manejo de la ansiedad?>
+- <cómo tratar la ansiedad>
+- <tratamiento ansiedad>
+- <Tratamiento>
+
+
+# AnsiedadTipos
+- <¿Cuáles son los diferentes tipos de trastornos de ansiedad que existen?>
+- <¿Puedes explicar la diferencia entre el trastorno de ansiedad generalizada y el trastorno de pánico?>
+- <¿Qué es el trastorno obsesivo-compulsivo \(TOC\) y cómo se relaciona con la ansiedad?>
+- <¿Los trastornos de estrés postraumático \(TEPT\) son considerados trastornos de ansiedad?>
+- <¿Cuál es la diferencia entre una fobia específica y otros tipos de trastornos de ansiedad?>
+- <¿Hay algún tipo de ansiedad que se desencadene específicamente por situaciones traumáticas?>
+- <¿Los ataques de pánico son siempre un síntoma de un trastorno de ansiedad?>
+- <¿El trastorno de ansiedad social es lo mismo que la timidez extrema?>
+- <¿Los trastornos de ansiedad tienen diferentes tratamientos según el tipo?>
+- <¿Puede una persona tener más de un tipo de trastorno de ansiedad?>
+- <¿Qué tipos de ansiedad existen?>
+- <tipos de ansiedad>
+- <Tipos>
+
+
+# AnsiedadImpacto
+- <¿Cómo afectan los trastornos de ansiedad a la salud mental en general?>
+- <¿Los trastornos de ansiedad pueden causar depresión u otros problemas de salud mental?>
+- <¿Puede la ansiedad crónica afectar las relaciones interpersonales?>
+- <¿Las personas con trastornos de ansiedad tienen un mayor riesgo de abuso de sustancias?>
+- <¿La ansiedad puede afectar negativamente la calidad de vida en general?>
+- <¿Qué papel juega la autoestima en la ansiedad y la salud mental?>
+- <¿La ansiedad crónica puede causar problemas físicos además de emocionales?>
+- <¿Los trastornos de ansiedad pueden ser debilitantes en algunos casos?>
+- <¿Existen formas de mitigar el impacto de los trastornos de ansiedad en la salud mental?>
+- <impacto de la ansiedad en los estudios>
+- <impacto de la ansiedad>
+- <como afecta la ansiedad>
+
+
+# Direccion
+- <dirección>
+- <direcciones>
+- <ubicación>
+- <dónde se ubican?>
+- <cuál es la ubicación>
+- <dónde queda?>
+- <dónde atienden?>
+- <dónde está la instalación?>
+
+
+# Horario
+- <horario>
+- <horarios>
+- <horario de atención>
+- <a qué hora abren?>
+- <a qué hora cierran?>
+- <hasta qué hora atienden?>
+- <horarios de atención>
+
+
+# Contactanos
+- <Contáctanos>
+- <Contactanos>
+- <cómo los contacto?>
+- <quiero contactarlos?>
+- <correo>
+- <teléfono>
+- <Datos contacto>
+
+
+# BienestasEstudiantil
+- <Bienestar Estudiantil>
+- <ver bienestar estudiantil>
+
+
+> # Entity definitions
+
+
+> # PREBUILT Entity definitions
+
+@ prebuilt keyPhrase
+
+
+> # Phrase list definitions
+
+
+> # List entities
+
+> # RegEx entities
+
+

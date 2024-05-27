@@ -1,0 +1,19 @@
+{
+  "profileName": "BotSaludMentalUDP",
+  "jobId": "7ce2cd8d-e371-4fde-8de2-2ecbc30094a2",
+  "projectId": "29947.110008010557",
+  "time": "2024-05-27T15:44:09.932Z",
+  "log": [
+    "Creating Azure resources...",
+    "Checking the Existence of the Resource Group ...",
+    "Creating Resource Group ...",
+    "> Creating App Registration ...",
+    "App create failed, retrying ...",
+    "App create failed, retrying ...",
+    "App create failed, retrying ...",
+    "App create failed, retrying ...",
+    "App create failed after 3 retries. Error: Request failed with status code 401",
+    "{\"name\":\"CREATE_APP_REGISTRATION\",\"message\":\"App create failed! Please file an issue on Github.\",\"stack\":\"Error\\n    at new CustomizeError (C:\\\\Users\\\\Karina\\\\OneDrive\\\\Escritorio\\\\Bot Framework Composer\\\\resources\\\\app.asar.unpacked\\\\extensions\\\\azurePublish\\\\dist\\\\extension.js:246719:25)\\n    at createCustomizeError (C:\\\\Users\\\\Karina\\\\OneDrive\\\\Escritorio\\\\Bot Framework Composer\\\\resources\\\\app.asar.unpacked\\\\extensions\\\\azurePublish\\\\dist\\\\extension.js:246724:10)\\n    at BotProjectProvision.createApp (C:\\\\Users\\\\Karina\\\\OneDrive\\\\Escritorio\\\\Bot Framework Composer\\\\resources\\\\app.asar.unpacked\\\\extensions\\\\azurePublish\\\\dist\\\\extension.js:248275:17)\\n    at runMicrotasks (<anonymous>)\\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\\n    at async BotProjectProvision.create (C:\\\\Users\\\\Karina\\\\OneDrive\\\\Escritorio\\\\Bot Framework Composer\\\\resources\\\\app.asar.unpacked\\\\extensions\\\\azurePublish\\\\dist\\\\extension.js:248391:42)\\n    at async AzurePublisher.asyncProvision (C:\\\\Users\\\\Karina\\\\OneDrive\\\\Escritorio\\\\Bot Framework Composer\\\\resources\\\\app.asar.unpacked\\\\extensions\\\\azurePublish\\\\dist\\\\extension.js:248883:34)\"}",
+    "{\"name\":\"CREATE_APP_REGISTRATION\",\"message\":\"App create failed! Please file an issue on Github.\",\"stack\":\"Error\\n    at new CustomizeError (C:\\\\Users\\\\Karina\\\\OneDrive\\\\Escritorio\\\\Bot Framework Composer\\\\resources\\\\app.asar.unpacked\\\\extensions\\\\azurePublish\\\\dist\\\\extension.js:246719:25)\\n    at createCustomizeError (C:\\\\Users\\\\Karina\\\\OneDrive\\\\Escritorio\\\\Bot Framework Composer\\\\resources\\\\app.asar.unpacked\\\\extensions\\\\azurePublish\\\\dist\\\\extension.js:246724:10)\\n    at BotProjectProvision.createApp (C:\\\\Users\\\\Karina\\\\OneDrive\\\\Escritorio\\\\Bot Framework Composer\\\\resources\\\\app.asar.unpacked\\\\extensions\\\\azurePublish\\\\dist\\\\extension.js:248275:17)\\n    at runMicrotasks (<anonymous>)\\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\\n    at async BotProjectProvision.create (C:\\\\Users\\\\Karina\\\\OneDrive\\\\Escritorio\\\\Bot Framework Composer\\\\resources\\\\app.asar.unpacked\\\\extensions\\\\azurePublish\\\\dist\\\\extension.js:248391:42)\\n    at async AzurePublisher.asyncProvision (C:\\\\Users\\\\Karina\\\\OneDrive\\\\Escritorio\\\\Bot Framework Composer\\\\resources\\\\app.asar.unpacked\\\\extensions\\\\azurePublish\\\\dist\\\\extension.js:248883:34)\"}. See provision.BotSaludMentalUDP.log in your bot folder"
+  ]
+}

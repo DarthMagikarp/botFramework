@@ -1,0 +1,466 @@
+[import](common.lg)
+
+# SendActivity_HmD73b_text()
+- ```Veo que necesitas agendar una sesión con uno de nuestros profesionales. 
+
+El proceso es muy simple, para iniciarlo sólo debes hacer clic en el botón 👇```
+# SendActivity_G8LHc5_text()
+- ```La ansiedad es una respuesta natural del cuerpo ante situaciones estresantes o peligrosas. Sin embargo, cuando esta ansiedad se vuelve excesiva, persistente y desproporcionada respecto a la situación desencadenante, puede convertirse en un trastorno de ansiedad.
+
+Estos trastornos pueden afectar significativamente la calidad de vida y el bienestar emocional de quienes los padecen. 
+
+Si gustas, podemos explorar el detalle de los trastornos de ansiedad:```
+# SendActivity_HmD73b_attachment_oUy1tQ()
+[HeroCard
+  title = Intervenciones Clínicas
+  subtitle = Solicitud de hora
+  images = https://dae.udp.cl/cms/wp-content/uploads/2021/07/atencion-psicologica-individual@2x-min-scaled.jpg
+  buttons = Reservar
+]
+
+
+# SendActivity_CJaMR8()
+[Activity
+    Text = ${SendActivity_CJaMR8_text()}
+]
+
+# SendActivity_CJaMR8_text()
+- ```La ansiedad se manifiesta como preocupación constante y síntomas físicos y emocionales que interfieren con la vida diaria y las relaciones. Los indicios comunes son preocupación excesiva, síntomas físicos como palpitaciones, evitación de situaciones, problemas de concentración y de sueño.
+
+```
+- ```Los trastornos de ansiedad se manifiestan con síntomas de preocupación excesiva y persistente sobre diversas situaciones cotidianas. Las personas afectadas pueden sentirse constantemente en alerta, anticipando el peor resultado posible, lo cual puede resultar abrumador y dificultar su capacidad para disfrutar de la vida diaria.
+
+```
+- ```Uno de los síntomas más comunes de los trastornos de ansiedad es la aparición de síntomas físicos como palpitaciones, sudoración, temblores y dificultad para respirar. Estos síntomas pueden ser tan intensos que las personas afectadas sienten como si estuvieran experimentando una emergencia médica, lo cual incrementa aún más su ansiedad.
+
+```
+- ```La evitación de situaciones que generan ansiedad es otro síntoma clave. Las personas con trastornos de ansiedad tienden a evitar actividades o entornos que perciben como estresantes, lo que puede limitar su vida social y profesional. Este comportamiento de evitación, aunque alivia temporalmente la ansiedad, puede agravarla a largo plazo.
+
+```
+- ```Los trastornos de ansiedad también afectan la capacidad de concentración. Las personas afectadas pueden tener dificultades para enfocarse en tareas específicas, lo que afecta su rendimiento académico o laboral. Esta falta de concentración puede llevar a errores y aumentar la sensación de incompetencia y ansiedad.
+
+```
+- ```Los problemas de sueño son un síntoma frecuente de los trastornos de ansiedad. Las personas con ansiedad pueden tener dificultades para conciliar el sueño, experimentar insomnio o despertarse frecuentemente durante la noche. La falta de sueño adecuada puede exacerbar otros síntomas de ansiedad, creando un ciclo difícil de romper.
+
+
+
+
+
+```
+# SendActivity_gBHfYT()
+[Activity
+    Text = ${SendActivity_gBHfYT_text()}
+]
+
+# SendActivity_gBHfYT_text()
+- ```El tratamiento de un trastorno de ansiedad varía según la gravedad y las necesidades individuales de cada persona. En muchos casos, la terapia cognitivo\-conductual (TCC) se considera el enfoque de primera línea. Este tipo de terapia ayuda a identificar y cambiar patrones de pensamiento y comportamiento que contribuyen a la ansiedad. Además, los medicamentos como los antidepresivos o los ansiolíticos pueden ser recetados para ayudar a reducir los síntomas. La combinación de terapia y medicación es común en muchos casos de trastornos de ansiedad moderados a graves.
+
+```
+- ```Tratar un trastorno de ansiedad implica un enfoque integral que aborde tanto los aspectos emocionales como los físicos de la condición. La terapia psicológica, como la terapia cognitivo\-conductual (TCC) o la terapia de exposición, se centra en identificar y cambiar los pensamientos y comportamientos negativos que perpetúan la ansiedad. Además, la incorporación de técnicas de relajación, como la respiración profunda o la meditación, puede ayudar a reducir los niveles generales de ansiedad y promover un mayor bienestar emocional.
+
+```
+- ```El tratamiento de un trastorno de ansiedad requiere un enfoque individualizado que considere la gravedad de los síntomas y las necesidades específicas del paciente. La terapia cognitivo\-conductual (TCC) es ampliamente reconocida como una forma efectiva de abordar la ansiedad al ayudar a identificar y cambiar patrones de pensamiento negativos. Además, las técnicas de relajación, como la respiración diafragmática y el yoga, pueden complementar la terapia al reducir la tensión física y promover la calma mental.
+
+```
+- ```El tratamiento de un trastorno de ansiedad puede incluir una variedad de enfoques, desde terapias psicológicas hasta intervenciones farmacológicas. La terapia cognitivo\-conductual (TCC) se ha demostrado eficaz para muchos pacientes al ayudarles a identificar y desafiar los pensamientos irracionales que alimentan su ansiedad. En casos de ansiedad grave, los medicamentos como los antidepresivos o los ansiolíticos pueden ser recetados para ayudar a controlar los síntomas. Sin embargo, es importante recordar que el tratamiento adecuado puede variar según las necesidades individuales y siempre debe ser supervisado por un profesional de la salud mental.
+
+```
+- ```El abordaje del tratamiento de un trastorno de ansiedad debe ser holístico y adaptado a las necesidades específicas de cada individuo. La terapia cognitivo\-conductual (TCC) es una opción terapéutica comúnmente utilizada, ya que ayuda a identificar y cambiar los patrones de pensamiento y comportamiento que contribuyen a la ansiedad. Además, las técnicas de relajación, como la meditación y el mindfulness, pueden ser beneficiosas para reducir los niveles de estrés y promover una sensación de calma. En algunos casos, los medicamentos pueden ser recetados para ayudar a controlar los síntomas más graves de ansiedad, pero siempre deben ser administrados bajo la supervisión de un profesional de la salud mental.
+
+
+
+
+
+```
+# SendActivity_l9KHjJ()
+[Activity
+    Text = ${SendActivity_l9KHjJ_text()}
+]
+
+# SendActivity_l9KHjJ_text()
+- ```Los trastornos de ansiedad se dividen en varias categorías, cada una con sus propias características distintivas. El trastorno de ansiedad generalizada (TAG) se caracteriza por una preocupación excesiva y persistente sobre diversos aspectos de la vida cotidiana, sin una causa específica. El trastorno de pánico implica la aparición repentina de ataques de pánico intensos y recurrentes, acompañados de síntomas físicos como palpitaciones, dificultad para respirar y sensación de muerte inminente. La fobia social es otro tipo común de trastorno ansioso, donde la persona experimenta un miedo irracional a situaciones sociales o de desempeño, temiendo ser juzgada negativamente por los demás.
+
+```
+- ```Los trastornos de ansiedad incluye el trastorno obsesivo\-compulsivo (TOC), caracterizado por pensamientos obsesivos intrusivos y comportamientos compulsivos repetitivos que la persona siente la necesidad de realizar para aliviar la ansiedad. El trastorno de estrés postraumático (TEPT) se desarrolla después de haber experimentado o presenciado un evento traumático, y se manifiesta con recuerdos intrusivos, pesadillas, evitación de ciertos estímulos y reacciones de sobresalto exageradas. El trastorno de ansiedad por separación es más común en niños y se produce cuando tienen miedo extremo a separarse de las figuras de apego, lo que puede manifestarse en llanto excesivo, quejas físicas y negativa a ir a la escuela.
+
+```
+- ```Entre los trastornos de ansiedad menos conocidos pero igualmente significativos se encuentra el trastorno de ansiedad de enfermedad, donde la persona experimenta una preocupación persistente por tener una enfermedad grave, a pesar de la ausencia de síntomas físicos o de pruebas médicas que lo respalden. El trastorno de ansiedad por hipocondría, ahora conocido como trastorno de ansiedad por enfermedad somática, es similar pero se centra en la interpretación exagerada de síntomas físicos normales como signos de enfermedad grave.
+
+```
+- ```Algunos trastornos de ansiedad se presentan en formas específicas según la edad o el contexto. Por ejemplo, el trastorno de ansiedad de inicio en la infancia se caracteriza por preocupaciones excesivas y persistentes sobre acontecimientos cotidianos, rendimiento escolar o separación de los padres. En contraste, el trastorno de ansiedad de inicio en la adolescencia puede manifestarse como miedo excesivo a la evaluación social, preocupaciones sobre la imagen corporal o ansiedad por el rendimiento académico.
+
+```
+- ```Es fundamental comprender la diversidad de los trastornos de ansiedad y reconocer que cada individuo puede experimentar síntomas de ansiedad de manera única. Si bien estos trastornos pueden ser debilitantes, existen opciones de tratamiento efectivas que incluyen terapia cognitivo\-conductual, medicación y técnicas de manejo del estrés. La atención temprana y el apoyo adecuado pueden ayudar a las personas a gestionar sus síntomas y mejorar su calidad de vida.
+
+
+
+
+
+```
+# SendActivity_UAGunf()
+[Activity
+    Text = ${SendActivity_UAGunf_text()}
+]
+
+# SendActivity_UAGunf_text()
+- ```Los trastornos de ansiedad pueden tener un impacto significativo en la salud mental y el bienestar general de una persona. Además de los síntomas físicos y emocionales, la ansiedad crónica puede aumentar el riesgo de desarrollar otros problemas de salud mental, como depresión, trastornos de sueño y abuso de sustancias. 
+
+También puede afectar negativamente las relaciones interpersonales, el rendimiento académico y laboral, y la calidad de vida en general.```
+- ```Un trastorno de ansiedad puede tener un impacto significativo en la vida cotidiana de una persona. La preocupación constante y excesiva puede dificultar la concentración en tareas diarias, como el trabajo o los estudios. Las personas con ansiedad a menudo encuentran difícil relajarse y disfrutar de actividades sociales o recreativas. Esto puede llevar a un aislamiento social gradual, ya que evitan situaciones que puedan desencadenar su ansiedad, como reuniones sociales o eventos públicos. Además, los síntomas físicos de la ansiedad, como palpitaciones, sudoración y dificultad para respirar, pueden ser tan intensos que interfieren con las actividades normales, como dormir o hacer ejercicio.
+
+```
+- ```La ansiedad puede afectar profundamente las relaciones interpersonales de una persona. Las preocupaciones constantes pueden hacer que la persona sea menos disponible emocionalmente para sus seres queridos, ya que su atención está constantemente enfocada en sus propios miedos y preocupaciones. Además, la evitación de situaciones sociales puede llevar a una disminución en la participación en actividades familiares o eventos sociales, lo que puede generar tensiones en las relaciones. Las personas con ansiedad también pueden experimentar irritabilidad o cambios de humor debido al estrés constante, lo que puede afectar negativamente la calidad de sus relaciones.
+
+```
+- ```El impacto de la ansiedad en la vida cotidiana también puede manifestarse en la salud física y el bienestar general. Las personas con ansiedad pueden experimentar problemas de sueño, como insomnio o pesadillas, lo que puede llevar a la fatiga crónica y una disminución en la capacidad para funcionar durante el día. Además, los síntomas físicos de la ansiedad, como dolores de cabeza, problemas gastrointestinales y tensión muscular, pueden afectar la calidad de vida y aumentar el estrés percibido. Esto puede crear un ciclo de ansiedad continua, donde los síntomas físicos alimentan la preocupación emocional, y viceversa.
+
+```
+- ```Un trastorno de ansiedad puede tener un impacto multifacético en la vida cotidiana de una persona, afectando su capacidad para funcionar en el trabajo, mantener relaciones saludables, disfrutar de actividades recreativas y cuidar de su salud física y emocional. Es importante buscar ayuda profesional si se experimentan síntomas de ansiedad persistente, ya que el tratamiento adecuado puede ayudar a reducir el impacto de la ansiedad y mejorar la calidad de vida.
+
+
+
+
+
+```
+# SendActivity_Dx7947()
+[Activity
+    Text = ${SendActivity_Dx7947_text()}
+]
+
+# SendActivity_Dx7947_text()
+- ```Los trastornos de ansiedad pueden ser el resultado de una combinación de factores genéticos, biológicos, ambientales y psicológicos.
+
+Algunos de los factores que pueden aumentar el riesgo de desarrollar un trastorno de ansiedad incluyen:
+
+\- Historia Familiar: La predisposición genética puede aumentar la probabilidad de desarrollar un trastorno de ansiedad.
+\- Eventos Traumáticos: Experiencias traumáticas, como abuso infantil, accidentes graves o violencia, pueden desencadenar trastornos de ansiedad.
+
+\- Estrés Crónico: El estrés prolongado en el trabajo, en la escuela o en las relaciones personales puede contribuir al desarrollo de la ansiedad.
+
+\- Problemas de Salud Mental: La presencia de otros trastornos mentales, como la depresión, puede aumentar el riesgo de trastornos de ansiedad.```
+- ```Los trastornos de ansiedad pueden surgir debido a una interacción compleja de factores genéticos, biológicos, ambientales y psicológicos. La predisposición genética juega un papel significativo, ya que tener antecedentes familiares de trastornos de ansiedad aumenta el riesgo. Además, desequilibrios químicos en el cerebro, especialmente en neurotransmisores como la serotonina y la dopamina, pueden contribuir al desarrollo de estos trastornos.
+
+```
+- ```Experiencias traumáticas y eventos estresantes son causas comunes de trastornos de ansiedad. Vivencias como el abuso infantil, accidentes graves o episodios de violencia pueden dejar secuelas psicológicas profundas que desencadenan ansiedad. La exposición prolongada a situaciones estresantes también puede alterar la respuesta del cuerpo al estrés, fomentando la aparición de síntomas ansiosos.
+
+```
+- ```Factores ambientales, como un entorno familiar disfuncional o un ambiente laboral altamente demandante, pueden influir significativamente en el desarrollo de trastornos de ansiedad. Un ambiente cargado de tensión, conflictos y presión constante puede aumentar la vulnerabilidad a la ansiedad, especialmente si se carece de un sistema de apoyo emocional adecuado.
+
+```
+- ```La biología del individuo también juega un papel crucial en la aparición de trastornos de ansiedad. Alteraciones en la función cerebral y en los niveles de neurotransmisores pueden predisponer a una persona a desarrollar ansiedad. Además, ciertas condiciones médicas crónicas, como enfermedades cardiovasculares o problemas tiroideos, pueden estar asociadas con un mayor riesgo de ansiedad.
+
+```
+- ```Los factores psicológicos, incluyendo la personalidad y los patrones de pensamiento, también son determinantes en la aparición de trastornos de ansiedad. Personas con una tendencia a la perfección, el pesimismo o la baja autoestima son más propensas a experimentar ansiedad. Además, estrategias de afrontamiento inadecuadas frente al estrés pueden agravar los síntomas ansiosos, dificultando la gestión de las emociones.
+
+
+
+
+
+```
+# SendActivity_CNr2jk()
+[Activity
+    Text = ${SendActivity_CNr2jk_text()}
+    Attachments = ${SendActivity_CNr2jk_attachment_9fLk0V()}
+    AttachmentLayout = carousel
+]
+
+# SendActivity_CNr2jk_text()
+- ```Veo que necesitas agendar una sesión con uno de nuestros profesionales. 
+
+El proceso es muy simple, y puedes iniciarlo en el botón "Reservar".```
+- ```¿Estás buscando agendar una sesión con uno de nuestros profesionales? 
+
+Hacerlo es muy sencillo, solo tienes que hacer clic en el botón 'Reservar' para comenzar el proceso.
+```
+- ```¿Tienes interés en programar una sesión con uno de nuestros profesionales? 
+
+El proceso es muy fácil y puedes empezarlo haciendo clic en el botón 'Reservar'.```
+- Para reservar una sesión te invito a iniciar el proceso a través del botón "Reservar".
+# SendActivity_in2QUT()
+[Activity
+    Text = ${SendActivity_in2QUT_text()}
+    Attachments = ${SendActivity_in2QUT_attachment_F5wJVb()}
+    AttachmentLayout = carousel
+]
+
+# SendActivity_in2QUT_text()
+- ```Primero que todo, quiero agradecer tu confianza. Entiendo que hablar de este tipo de situaciones puede ser abrumador, pero quiero que sepas que hay personas que pueden ayudarte a enfrentar esto. 
+
+Quisiera invitarte a contactar a un profesional especializado, ellos están capacitados para brindar apoyo y orientación en momentos difíciles como este.
+
+El proceso para agendar una sesión es muy simple, sólo debes iniciarlo desde el botón "Reservar".```
+- ```Junto con agradecer tu confianza, quisiera invitarte a contactar a un profesional que te pueda ayudar. 
+
+Agendar una cita es un proceso es muy simple y puedes iniciarlo en el botón "Reservar".```
+# SendActivity_9mu1uL()
+[Activity
+    Text = ${SendActivity_9mu1uL_text()}
+    Attachments = ${SendActivity_9mu1uL_attachment_f75FVb()} | ${SendActivity_9mu1uL_attachment_vJQqa6()} | ${SendActivity_9mu1uL_attachment_bFCtvL()} | ${SendActivity_9mu1uL_attachment_oBUD7j()}
+    AttachmentLayout = list
+]
+
+# SendActivity_9mu1uL_text()
+- ```La ansiedad es una respuesta natural del cuerpo ante situaciones estresantes o peligrosas. Sin embargo, cuando esta ansiedad se vuelve excesiva, persistente y desproporcionada respecto a la situación desencadenante, puede convertirse en un trastorno de ansiedad.
+
+Estos trastornos pueden afectar significativamente la calidad de vida y el bienestar emocional de quienes los padecen. 
+
+Revisa más detalles:```
+- La ansiedad es una respuesta natural del cuerpo ante el estrés, pero cuando se vuelve abrumadora y persistente, puede indicar un trastorno de ansiedad. Este trastorno se caracteriza por sentimientos intensos de preocupación y miedo, acompañados de síntomas físicos. Es una condición médica tratable que puede requerir terapia y medicación.
+- La ansiedad es una respuesta normal a situaciones estresantes, pero cuando se vuelve abrumadora y constante, podría ser un trastorno de ansiedad. Esto implica sentimientos intensos de preocupación y miedo, a menudo con síntomas físicos. Afortunadamente, existen tratamientos efectivos como la terapia y los medicamentos.
+- La ansiedad es una reacción común al estrés, pero cuando se vuelve persistente y causa problemas en la vida diaria, puede ser un trastorno de ansiedad. Esto se manifiesta en preocupaciones intensas y síntomas físicos. Afortunadamente, hay opciones de tratamiento disponibles, como la terapia y los medicamentos.
+- La ansiedad es una respuesta natural a situaciones estresantes, pero cuando se vuelve excesiva y constante, podría ser un trastorno de ansiedad. Este trastorno involucra preocupaciones intensas y síntomas físicos. Sin embargo, hay esperanza en forma de tratamientos efectivos como la terapia y los medicamentos.
+# SendActivity_kQ7K1u()
+[Activity
+    Text = ${SendActivity_kQ7K1u_text()}
+]
+
+# SendActivity_kQ7K1u_text()
+- Gracias a ti por confiar en este canal de atención.
+- Te agradezco por confiar en este canal de atención.
+- Tu confianza en nosotros significa mucho, ¡Gracias!
+- Agradecemos tu confianza al comunicarte con nosotros.
+# SendActivity_7hjC9b()
+[Activity
+    Text = ${SendActivity_7hjC9b_text()}
+]
+
+# SendActivity_7hjC9b_text()
+- ¡Nos vemos!, gracias por visitarme.
+- Hasta luego, ¡nos vemos!
+- Nos vemos pronto. ¡Cuídate!
+- Adiós. ¡Que tengas una excelente jornada!
+- Ha sido un placer conversar contigo. ¡Hasta la próxima!
+# SendActivity_WtI4Sw()
+[Activity
+    Text = ${SendActivity_WtI4Sw_text()}
+    Attachments = ${SendActivity_WtI4Sw_attachment_xP43hG()} | ${SendActivity_WtI4Sw_attachment_T9Rn6P()} | ${SendActivity_WtI4Sw_attachment_fdNzKf()} | ${SendActivity_WtI4Sw_attachment_xq87fJ()}
+    AttachmentLayout = carousel
+]
+
+# SendActivity_WtI4Sw_text()
+- Para poder ayudarte, selecciona el tema de tu interés o ingresar tu pregunta.
+- Para brindarte la mejor asistencia, elige el tema que te interese o simplemente ingresa tu pregunta.
+- Para poder ayudarte de manera efectiva, selecciona el tema que quieras revisar o ingresa tu pregunta.
+- Selecciona el área que te interese o escribe tu pregunta para que pueda ofrecerte la ayuda que necesitas.
+- Para entender mejor tus necesidades, por favor, selecciona el tema relevante o ingresa tu pregunta.
+# SendActivity_RleViU()
+[Activity
+    Text = ${SendActivity_RleViU_text()}
+]
+
+# SendActivity_RleViU_text()
+- ¡Hola! ¿En qué te puedo ayudar?
+- ¡Hola! ¿Cómo puedo ayudarte hoy?
+- ¡Hola! Si tienes una pregunta sólo debes ingresarla.
+- ¡Hola! ¿Qué puedo hacer por ti en este momento?
+# SendActivity_NZ1E6R()
+[Activity
+    Text = ${SendActivity_NZ1E6R_text()}
+]
+
+# SendActivity_NZ1E6R_text()
+- resp horario
+# SendActivity_67RQuD()
+[Activity
+    Text = ${SendActivity_67RQuD_text()}
+]
+
+# SendActivity_67RQuD_text()
+- Creo que no entendí tu pregunta o aun no tengo completo dominio del tema. Por favor dame más contexto.
+- Tu pregunta es importante, pero necesito más detalles para proporcionarte la mejor respuesta.
+- Me encantaría ayudarte, pero creo que necesito un poco más de contexto
+- Creo no haber entendido tu pregunta o aún me falta identificar el tema relacionado. ¿Podrías darme más contexto, por favor?
+- No entendí completamente tu pregunta. ¿Podrías darme más detalles para poder responderte?
+# SendActivity_CNr2jk_attachment_9fLk0V()
+[HeroCard
+  title = Intervenciones Clínicas
+  subtitle = Solicitud de hora
+  images = https://dae.udp.cl/cms/wp-content/uploads/2021/07/atencion-psicologica-individual@2x-min-scaled.jpg
+  buttons = https://estudiantes.udp.cl/bienestar-estudiantil/servicios-de-salud-mental/
+]
+
+# SendActivity_wVDzRV()
+[Activity
+    Text = ${SendActivity_wVDzRV_text()}
+]
+
+# SendActivity_wVDzRV_text()
+- ${MasAyuda1()}
+# SendActivity_in2QUT_attachment_F5wJVb()
+[HeroCard
+  title = Intervenciones Clínicas
+  subtitle = Solicitud de hora
+  images = https://dae.udp.cl/cms/wp-content/uploads/2021/07/atencion-psicologica-individual@2x-min-scaled.jpg
+  buttons = Reservar
+]
+
+# BotHelper1()
+- Espero que la información sea de utilidad. Si tienes otra pregunta sólo ingrésala.
+# SendActivity_qL7Cja()
+[Activity
+    Text = ${SendActivity_qL7Cja_text()}
+]
+
+# SendActivity_qL7Cja_text()
+- ${MasAyuda1()}
+# SendActivity_SYoX0y()
+[Activity
+    Text = ${SendActivity_SYoX0y_text()}
+]
+
+# SendActivity_SYoX0y_text()
+- ${MasAyuda1()}
+# SendActivity_T3DDTj()
+[Activity
+    Text = ${SendActivity_T3DDTj_text()}
+]
+
+# SendActivity_T3DDTj_text()
+- ${MasAyuda1()}
+# SendActivity_LEaA9N()
+[Activity
+    Text = ${SendActivity_LEaA9N_text()}
+]
+
+# SendActivity_LEaA9N_text()
+- ${MasAyuda1()}
+# SendActivity_9mu1uL_attachment_f75FVb()
+[HeroCard
+  buttons = Ver síntomas
+  ]
+
+# SendActivity_xvmJfA()
+[Activity
+    Text = ${SendActivity_xvmJfA_text()}
+]
+
+# SendActivity_xvmJfA_text()
+- ${MasAyuda1()}
+# SendActivity_9mu1uL_attachment_vJQqa6()
+[HeroCard
+  buttons = Ver causas
+ 
+]
+
+# SendActivity_9mu1uL_attachment_bFCtvL()
+[HeroCard
+ 
+   buttons = Ver tipos
+
+]
+
+# SendActivity_9mu1uL_attachment_oBUD7j()
+[HeroCard
+  buttons = Ver tratamiento
+]
+
+# SendActivity_WtI4Sw_attachment_xP43hG()
+[HeroCard
+  title = Intervenciones Clínicas
+  subtitle =  Solicitud de hora
+  images = https://dae.udp.cl/cms/wp-content/uploads/2021/07/atencion-psicologica-individual@2x-min-scaled.jpg
+  buttons = Reservar
+  value = https://dae.udp.cl/salud-mental-estudiantil/intervencion-clinica-individual/
+]
+
+# SendActivity_WtI4Sw_attachment_T9Rn6P()
+[HeroCard
+  title = Programa ACÉRCATE
+  subtitle = Departamento de Salud Mental
+  images = https://saludmentalestudiantil.udp.cl/wp-content/uploads/2023/04/acercate.jpg
+  buttons = Ir al sitio
+  value = https://saludmentalestudiantil.udp.cl/acercate/
+]
+
+# SendActivity_WtI4Sw_attachment_fdNzKf()
+[HeroCard
+  title = Programa DECIDE
+  subtitle = Departamento de Salud Mental
+  images = https://saludmentalestudiantil.udp.cl/wp-content/uploads/2023/04/decide.jpg
+  buttons = Ir al sitio
+  value = https://saludmentalestudiantil.udp.cl/decide/
+]
+
+# SendActivity_WtI4Sw_attachment_xq87fJ()
+[HeroCard
+  title = Contáctanos
+  subtitle = Departamentos
+  images = https://dae.udp.cl/cms/wp-content/uploads/2022/05/136.jpg
+  buttons = Datos contacto
+]
+
+# SendActivity_7Ydpa5()
+[Activity
+    Attachments = ${SendActivity_7Ydpa5_attachment_8I9OoN()} | ${SendActivity_7Ydpa5_attachment_QnQ1sr()} | ${SendActivity_7Ydpa5_attachment_HwAoFx()}
+]
+
+# SendActivity_7Ydpa5_attachment_8I9OoN()
+[HeroCard
+  buttons = Bienestar Estudiantil 
+]
+
+# SendActivity_7Ydpa5_attachment_QnQ1sr()
+[HeroCard
+  buttons = Salud Mental 
+]
+
+
+# SendActivity_7Ydpa5_attachment_HwAoFx()
+[HeroCard
+  buttons = Vida Universitaria
+]
+
+
+# SendActivity_i5mzlN()
+[Activity
+    Text = ${SendActivity_i5mzlN_text()}
+]
+
+# SendActivity_i5mzlN_text()
+- ```Manuel Rodríguez Sur 343
++56 2 2676 8314
+bienestarestudiantil@udp.cl```
+# SendActivity_UdzDV9()
+[Activity
+    Text = ${SendActivity_UdzDV9_text()}
+]
+
+# SendActivity_UdzDV9_text()
+- ```Bienestar Estudiantil
+
+Manuel Rodríguez Sur 343
++56 2 2676 8314
+bienestarestudiantil@udp.cl
+
+
+Salud Mental
+
+Manuel Rodríguez Sur 343
+saludmentalestudiantil@mail.udp.cl
+
+
+Vida Universitaria
+
+Manuel Rodríguez Sur 361
++56 2 2676 2002
+vidauniversitaria@mail.udp.cl```
+# SendActivity_859266()
+[Activity
+    Text = ${SendActivity_859266_text()}
+]
+
+# SendActivity_859266_text()
+- ```¡Hola! Te doy la bienvenida a este espacio de conversación que UDP ha generado para ti. Estoy aquí para ayudarte a gestionar aquellas emociones que te sean difíciles de manejar. 
+Juntos, podemos trabajar en encontrar estrategias y recursos que te ayuden a sentir mejor. 
+
+Dime ¿En qué puedo ayudarte hoy?```
+- ```¡Hola! Te doy la bienvenida a esta plataforma de apoyo que UDP ha preparado para ti. Estoy aquí para ayudarte a gestionar tus emociones y encontrar maneras de sentirte más tranquilo y seguro. 
+
+¿Tienes alguna pregunta? Sólo ingrésala y te responderé.```
+- ```¡Hola! Que gusto tenerte en este espacio de conversación que UDP ha diseñado para ayudarte a llevar aquellas emociones difíciles de manejar.
+
+Dime ¿En qué puedo ayudarte hoy?```
+- ```¡Hola! Te doy la bienvenida al espacio de conversación de UDP. Estoy aquí para asistirte en la gestión de tus emociones. 
+Juntos, podemos encontrar soluciones y recursos para ayudarte a sentir mejor. 
+
+¿Tienes alguna pregunta? te invito a ingresarla.```
